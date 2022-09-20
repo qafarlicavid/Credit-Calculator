@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  margin-top: 3rem;
+}
+.main input {
+  padding: 5px 1rem;
+  margin: 10px;
+  outline: none;
+  text-decoration: none;
+  border: 1px solid transparent;
+  border-radius: 10px;
+}
+.main button {
+  margin: 10px;
+  outline: none;
+  text-decoration: none;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  padding: 5px 4rem;
+  background-color: #4da650;
+  color: #fff;
+}
+.main .program {
+  border: 1px solid transparent;
+  border-radius: 10px;
+  width: 50%;
+  margin-left: 25%;
+  background-color: rgb(155, 155, 155);
+}
+.main h1 {
+  margin: 2rem 0;
+}
+.main #muddet {
+  position: absolute;
+  top: 150px;
+  left: 366px;
+  opacity: 0.8;
+}
+.main #faiz {
+  position: absolute;
+  top: 239px;
+  left: 366px;
+  opacity: 0.8;
+}
+.main .first {
+  position: relative;
+  margin-top: 10px;
+}
+.main .first #mebleg {
+  position: absolute;
+  top: -18px;
+  left: 40px;
+  opacity: 0.8;
+  transition: 1s;
+}
+.main .second {
+  position: relative;
+  margin-top: 10px;
+}
+.main .second #muddet {
+  position: absolute;
+  top: -18px;
+  left: 40px;
+  opacity: 0.8;
+  transition: 1s;
+}
+.main .third {
+  position: relative;
+  margin-top: 10px;
+}
+.main .third #faiz {
+  position: absolute;
+  top: -18px;
+  left: 40px;
+  opacity: 0.8;
+  transition: 1s;
+}
+.main .content {
+  padding: 0 15rem;
+}/*# sourceMappingURL=style.css.map */
